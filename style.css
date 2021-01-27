@@ -1,0 +1,32 @@
+card-body {
+  text-align: center;
+  font-family: sans-serif
+}
+.card {
+  padding: 1rem;
+  border: 1px solid black;
+  margin: 1rem;
+  }
+
+button {
+  padding: 5px;
+  margin: 1rem 1rem 1rem 1rem;
+}
+
+.field {
+  margin: 1rem 1rem 1rem 1rem;
+}
+
+.warning {
+  color: red;
+  opacity: 0.5;
+}
+
+p.button:hover { 
+  cursor: pointer; 
+  text-decoration: underline;
+}
+
+#myForm {
+  display: none;
+}
